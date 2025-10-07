@@ -1,0 +1,29 @@
+{
+  "text": [
+    "id",
+    "title",
+    "url",
+    "content",
+    "label",
+    "tweet_ids"
+  ],
+  "tweets": [
+    "tweet_id",
+    "user_id",
+    "created_at",
+    "text",
+    "retweet_of",
+    "in_reply_to",
+    "lang"
+  ],
+  "users": [
+    "user_id",
+    "screen_name",
+    "followers",
+    "friends",
+    "listed",
+    "favourites",
+    "statuses",
+    "created_at"
+  ]
+}

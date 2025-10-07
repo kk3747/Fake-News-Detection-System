@@ -1,0 +1,15 @@
+python==3.10
+spacy>=3.7
+transformers>=4.44
+torch>=2.2
+# torch-geometric wheels depend on CUDA/CPU; install per platform instructions later
+networkx>=3.2
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+matplotlib>=3.8
+seaborn>=0.13
+tqdm>=4.66
+pyyaml>=6.0
+jupyterlab>=4.2
+requests>=2.31

@@ -1,0 +1,20 @@
+{
+  "n_articles": 50,
+  "n_fake": 25,
+  "n_real": 25,
+  "spacy_shape": [
+    50,
+    96
+  ],
+  "bert_shape": [
+    50,
+    768
+  ],
+  "f3_shape": [
+    50,
+    111
+  ],
+  "n_graphs": 50,
+  "n_users": 50,
+  "n_tweets": 231
+}
